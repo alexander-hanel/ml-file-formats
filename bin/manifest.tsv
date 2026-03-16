@@ -1,0 +1,60 @@
+readme_name	status	relative_path	notes
+PyTorch v1.3	generated	PyTorchV13.pt	
+PyTorch v0.1.1	unsupported		Archived wheels available on this Windows setup do not reach the historical tar-based serializer layout.
+PyTorch v0.1.10	unsupported		Archived wheels available on this Windows setup do not reach the historical stacked-pickle serializer layout.
+TorchScript v1.4	generated	TorchScriptV14.pt	
+TorchScript v1.3 (deprecated)	generated	TorchScriptV13Deprecated.pt	Generated with archived torch 1.3.1.
+TorchScript v1.1 (deprecated)	generated	TorchScriptV11Deprecated.pt	Generated with archived torch 1.1.0.
+TorchScript v1.0 (deprecated)	generated	TorchScriptV10Deprecated.pt	Generated with archived torch 1.0.1.
+PyTorch model archive format [ZIP]	generated	PyTorchModelArchiveFormatZIP.mar	
+PyTorch model archive format [TAR]	generated	PyTorchModelArchiveFormatTAR.mar	
+PyTorch Package	generated	PyTorchPackage.pt	
+ExecuTorch	unsupported		ExecuTorch export additionally requires the flatc compiler, which is not available in this environment.
+Torch.export	generated	TorchExport.pt2	
+PyTorch Mobile	generated	PyTorchMobile.ptl	
+Safetensors	generated	Safetensors.safetensors	
+ONNX	generated	ONNX.onnx	
+Keras native file format	generated	KerasNativeFileFormat.keras	
+TensorFlow Saved Models	generated	TensorFlowSavedModels	Directory containing saved_model.pb and variables.
+TensorFlow Checkpoint	generated	TensorFlowCheckpoint	Directory containing checkpoint shards.
+TFLite	generated	TFLite.tflite	
+TFJS	generated	TFJS	Directory containing model.json and a binary weight shard.
+TF1 Hub format (deprecated)	generated	TF1HubFormatDeprecated	Directory containing tfhub_module.pb, saved_model.pb, and variables.
+Tensorizer	generated	Tensorizer	
+TFRecords	generated	TFRecords.tfrecords	
+NPY	generated	NPY.npy	
+NPZ	generated	NPZ.npz	
+GGUF	generated	GGUF.gguf	
+GGML	unsupported		Requires GGML writer or spec-specific implementation.
+GGMF (deprecated)	unsupported		Requires deprecated GGML-era serializer.
+GGJT (deprecated)	unsupported		Requires deprecated GGML-era serializer.
+NetCDF	generated	NetCDF.nc	
+PMML	generated	PMML	
+MLeap	unsupported		Requires Spark/MLeap bundle tooling.
+CoreML	unsupported		Requires coremltools and CoreML conversion support.
+MLFlow Format	generated	MLFlowFormat	Directory containing MLmodel metadata and serialized model artifacts.
+MLFlow TensorSpec input format	generated	MLFlowTensorSpecInputFormat.json	
+SurrealML	unsupported		Requires SurrealML-specific exporter.
+Llamafile	unsupported		Requires llamafile packaging toolchain.
+.prompt	unsupported		Prompt format details are not implemented yet.
+Pickle	generated	Pickle.pkl	
+Joblib	generated	Joblib	
+Nemo	unsupported		Requires NVIDIA NeMo tooling.
+Riva	unsupported		Requires NVIDIA Riva tooling.
+AVRO	generated	AVRO	
+PARQUET	generated	PARQUET	
+ORC	generated	ORC	
+JSON	generated	JSON	
+CSV	generated	CSV	
+Protocol Buffers	generated	ProtocolBuffers	
+HDF5	generated	HDF5.h5	
+Caffe	unsupported		Requires caffe.proto definitions and compatible serializers.
+ArmNN Flatbuffers	unsupported		Requires ArmNN flatbuffer schema and writer.
+Cambricon	unsupported		Requires Cambricon tooling or schema details.
+Circle	unsupported		Requires Circle flatbuffer schema and writer.
+ZIP	generated	ZIP	
+CNTK v1 (deprecated)	unsupported		Requires deprecated CNTK tooling.
+CNTK v2	unsupported		Requires CNTK tooling.
+Darknet	unsupported		Requires Darknet config and weight writers.
+DL4J	unsupported		Requires DL4J model packaging conventions.
+Deep Learning Container (DLC)	unsupported		Requires Qualcomm Neural Processing SDK tooling.

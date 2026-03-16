@@ -1,0 +1,1 @@
+[{"name": "input_tensor", "type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 4]}}]
